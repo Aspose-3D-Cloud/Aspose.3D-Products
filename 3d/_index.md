@@ -1,6 +1,6 @@
 ﻿---
 title: 3D Modeling Solutions | On Premise & REST APIs, Online Apps
-description: Build desktop, web &amp; cloud-based 3D processing &amp; manipulation apps via Aspose.3D on premise &amp; Cloud REST APIs. Check our free online 3D object converter app.
+description: Build desktop, web &amp; cloud-based 3D processing &amp; manipulation apps via Aspose.3D on premise &amp; Cloud REST APIs. Check our free online 3D object converter app
 weight: 20
 url: /
 ---
