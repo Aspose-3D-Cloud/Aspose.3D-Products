@@ -1,6 +1,6 @@
 ﻿---
 title: 3D Modeling Solutions | On Premise & REST APIs, Online Apps
-description: Build desktop, web &amp; cloud-based 3D processing &amp; manipulation apps via Aspose.3D on premise &amp; Cloud REST APIs. Check our free online 3D object converter app
+description: Build desktop, web &amp; cloud-based 3D processing &amp; manipulation apps via Aspose.3D on premise &amp; Cloud REST APIs. Check our free online 3D object converter app.
 weight: 20
 url: /
 ---
@@ -11,25 +11,25 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="/sdk/aspose_3d-for-curl.png" productLink="/3d/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="/sdk/aspose_3d-for-curl.png" productLink="/3d/curl/" >}}
 cURL commands to access 3D models & 3D objects hosted on the cloud for easy processing & manipulation.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_3d-for-net.png" productLink="/3d/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_3d-for-net.png" productLink="/3d/net/" >}}
 Enhance your C#, ASP.NET & Visual Studio code to create, transform & convert cloud-based 3D objects & 3D entities.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="/sdk/aspose_3d-for-java.png" productLink="/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="/sdk/aspose_3d-for-java.png" productLink="/3d/java/" >}}
 Build Java programs to create & process 3D Box, 3D Cylinder, 3D Plane & other 3D entities in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/3d/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/3d/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.3D On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="/product-logos/aspose_3d-for-net.png" productLink="https://products.aspose.com/3d/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="/product-logos/aspose_3d-for-net.png" productLink="/3d/net/" >}}
 Enhance your C# & other .NET desktop & web applications to create, modify & convert 3D document formats.
 {{< /blocks/products/pf/product >}}
 
