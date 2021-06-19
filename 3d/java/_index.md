@@ -6,7 +6,7 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process 3D Models & Objects in Cloud via Java REST API" h2="Easily build cloud-based Java programs to create, transform, convert and process 3D Box, 3D Sphere, Torus & other 3D entities in the cloud." logoImageSrc="/headers/aspose_3D-for-java.png" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK for 3D Models & Objects" h2="Easily build cloud-based Java programs to create, transform, convert and process 3D Box, 3D Sphere, Torus & other 3D entities in the cloud." logoImageSrc="/headers/aspose_3D-for-java.png" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Java" >}}
 
