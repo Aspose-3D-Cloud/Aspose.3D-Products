@@ -273,7 +273,7 @@ url: /curl
     {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}

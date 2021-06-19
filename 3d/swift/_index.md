@@ -13,6 +13,7 @@ url: /swift
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-swift.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-swift" liveDemosLink="https://products.aspose.app/3d/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.3D Cloud Swift SDK is a very user-friendly 3D library providing software engineers the capability to transform your cloud applications to work with 3D documents in the cloud. The SDK enables you to incorporate 3D object generation and processing capabilities into your cloud applications with minimum efforts.</p>
 <p>Aspose.3D Cloud Swift SDK has encompassed support for several 3D documents creation and manipulation features, such as 3D elements, work with 3D models, 3D models attribute handling, 3D scenes conversion to supported file formats, create various types of 3D entities, extract contents from a 3D PDF file, triangulate meshes, adding & removing 3D objects from a scene and many more.</p>
 <p>It is always very convenient for software developers to process popular 3D file formats and convert them to other available 3D formats inside their own Swift application. The 3D Cloud SDK supports conversion to numerous popular 3D file formats such as FBX, 3DS, U3D, 3MF, DAE, GLTF, STL, OBJ, DRC, RVM, PDF, AMF, PLY, X, JT, DXF, ASE, VRML, HTML and more.</p>
 {{< /blocks/products/pf/tab-content >}}
@@ -297,7 +298,7 @@ url: /swift
     {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}

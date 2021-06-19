@@ -66,7 +66,7 @@ Develop Go applications to create, modify & process 3D models and handle 3D obje
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/3d/" >}}
+
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.3D Cloud Product Family?" tabId="success-stories" >}}

@@ -13,6 +13,7 @@ url: /ruby
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-ruby" liveDemosLink="https://products.aspose.app/3d/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.3D Cloud Ruby SDK gives software developers the capability to work with 3D document formats inside their own applications without requiring any external dependencies. The SDK can easily incorporate 3D documents generation and manipulation capabilities into your own cloud-based Ruby applications.</p>
 <p>The 3D cloud based Ruby SDK is also very stable and allows developers to perform processing of 3D models and attributes as well as accomplish transformation, translation, rotation & scaling of 3D objects. The 3D SDK provides complete support for several popular 3D file formats such as FBX, STL, OBJ, 3DS, U3D, DAE, GLTF, DRC, RVM, PDF, AMF, PLY, X, JT, DXF, 3MF, ASE, VRML, HTML and more.</p>
 <p>Aspose.3D Cloud Ruby SDK provides complete support for a wide arrange of features for creating, managing and processing 3D files, such as new 3D elements creation and editing, working with 3D models and its attributes, 3D scenes extraction and conversion to various formats, convert a particular part of 3D models, triangulate meshes support, add or remove 3D objects from a scene and many more..</p>
 {{< /blocks/products/pf/tab-content >}}
@@ -266,7 +267,7 @@ url: /ruby
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/3d/" >}}
+
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.3D Cloud SDK for Ruby?" tabId="success-stories" >}}
@@ -286,7 +287,7 @@ url: /ruby
     {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
 	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}
