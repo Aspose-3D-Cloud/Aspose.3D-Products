@@ -35,7 +35,7 @@ A Python wrapper around Aspose.3D Cloud API providing the capabilities to create
 Perform advanced 3D objects handling & 3D scenes extraction as well as conversion to FBX, STL, Universal3D, Distreet3DS, WavefrontOBJ & more insid Ruby Apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_3d-for-node.png" productLink="/3d/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_3d-for-node.png" productLink="/3d/nodejs/" >}}
 Get compete control to create, modify or convert 3D files using Aspose.3D Cloud SDK for Node.js on any platform.
 {{< /blocks/products/pf/product >}}
 
