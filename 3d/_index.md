@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="3D Modeling & Transformation Solution" h2="Aspose.3D on premise libraries & Cloud REST APIs help you create, modify & convert 3D objects, models & entities on desktop, web & cloud platforms." logoImageSrc="/headers/aspose_3d-brand.png" imageAlt="Aspose.3D Product Solution" >}}
+{{< blocks/products/pf/family-upper-banner h1="3D Modeling & Transformation Solution" h2="Aspose.3D on premise libraries & Cloud REST APIs help you create, modify & convert 3D objects, models & entities on desktop, web & cloud platforms." logoImageSrc="/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="/sdk/aspose_3d-for-curl.png" productLink="/3d/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="/sdk/aspose_3d-for-curl.svg" productLink="/3d/curl/" >}}
 cURL commands to access 3D models & 3D objects hosted on the cloud for easy processing & manipulation.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_3d-for-net.png" productLink="/3d/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
 Enhance your C#, ASP.NET & Visual Studio code to create, transform & convert cloud-based 3D objects & 3D entities.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="/sdk/aspose_3d-for-java.png" productLink="/3d/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="/sdk/aspose_3d-for-java.svg" productLink="/3d/java/" >}}
 Build Java programs to create & process 3D Box, 3D Cylinder, 3D Plane & other 3D entities in the cloud.
 {{< /blocks/products/pf/product >}}
 

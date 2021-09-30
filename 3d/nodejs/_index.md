@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3D-for-node.png" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3D-for-node.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-node" liveDemosLink="https://products.aspose.app/3d/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-node" liveDemosLink="https://products.aspose.app/3d/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.3D Cloud Node.js SDK is an easy-to-use platform independent REST API that supports working with 3D files in the cloud without any external dependencies. The SDK gives developers the capability to create, edit, and convert 3D files in the cloud. You can easily convert 3D documents into various formats, such as AMF, 3DS, RVM, DRC, DAE, DXF, FBX, OBJ, PDF, PLY, STL, U3D, GLTF and many more.</p>
@@ -41,7 +41,7 @@ url: /nodejs
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-node.png" alt="3D Cloud for Node.js" /><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-node.svg" alt="3D Cloud for Node.js" /><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 
 {{< /blocks/products/pf/carousel-item >}}
@@ -73,7 +73,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-node.png" alt="3D Cloud SDK for Node.js"><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-node.svg" alt="3D Cloud SDK for Node.js"><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -282,16 +282,16 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.svg" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

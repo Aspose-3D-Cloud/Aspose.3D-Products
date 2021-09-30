@@ -6,11 +6,11 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3D-for-ruby.png" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3D-for-ruby.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-ruby" liveDemosLink="https://products.aspose.app/3d/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-ruby.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-ruby" liveDemosLink="https://products.aspose.app/3d/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.3D Cloud Ruby SDK gives software developers the capability to work with 3D document formats inside their own applications without requiring any external dependencies. The SDK can easily incorporate 3D documents generation and manipulation capabilities into your own cloud-based Ruby applications.</p>
@@ -42,7 +42,7 @@ url: /ruby
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-ruby.png" alt="3D Cloud for Ruby" /><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-ruby.svg" alt="3D Cloud for Ruby" /><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 
 {{< /blocks/products/pf/carousel-item >}}
@@ -74,7 +74,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-ruby.png" alt="3D Cloud SDK for Ruby"><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-ruby.svg" alt="3D Cloud SDK for Ruby"><header>Aspose.3D</header><footer>Cloud SDK<small> <em> for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -281,16 +281,16 @@ url: /ruby
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.svg" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

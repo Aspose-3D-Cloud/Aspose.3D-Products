@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D Modeling & Processing in Cloud using cURL" h2="Use cURL commands to create & process 3D models, objects and entities (Box, Cylinder, Sphere, Torus, Plane) in the cloud." logoImageSrc="/headers/aspose_3D-for-curl.png" pfName="Aspose.3D" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D Modeling & Processing in Cloud using cURL" h2="Use cURL commands to create & process 3D models, objects and entities (Box, Cylinder, Sphere, Torus, Plane) in the cloud." logoImageSrc="/headers/aspose_3D-for-curl.svg" pfName="Aspose.3D" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-curl.png" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://github.com/aspose-3d-cloud/">}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-curl.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://github.com/aspose-3d-cloud/">}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.3D Cloud for cURL enables you to work with triangulate meshes and allows you to triangulate the whole file or triangulate only part of the 3D scene (specified by OAP) and save it to a different file. You can also enhance your cURL code to load external dependencies of 3D files. Transformation, translation, scaling, and rotation of 3D objects via cURL is also supported.</p>
@@ -41,7 +41,7 @@ url: /curl
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-curl.png" alt="3D Cloud for cURL" /><header>Aspose.3D</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-curl.svg" alt="3D Cloud for cURL" /><header>Aspose.3D</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 
 {{< /blocks/products/pf/carousel-item >}}
@@ -77,7 +77,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_3d-for-curl.png" alt="3D Cloud for cURL" /><header>Aspose.3D</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_3d-for-curl.svg" alt="3D Cloud for cURL" /><header>Aspose.3D</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 
 {{< /blocks/products/pf/carousel-item >}}
@@ -267,16 +267,16 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.png" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.png" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.png" platform="Perl" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/curl/" imgSrc="/sdk/aspose_3d-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/sdk/aspose_3d-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="/sdk/aspose_3d-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/php/" imgSrc="/sdk/aspose_3d-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/python/" imgSrc="/sdk/aspose_3d-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/ruby/" imgSrc="/sdk/aspose_3d-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/nodejs/" imgSrc="/sdk/aspose_3d-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/perl/" imgSrc="/sdk/aspose_3d-for-perl.svg" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/swift/" imgSrc="/sdk/aspose_3d-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/3d/go/" imgSrc="/sdk/aspose_3d-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
