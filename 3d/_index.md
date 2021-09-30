@@ -29,11 +29,11 @@ Build Java programs to create & process 3D Box, 3D Cylinder, 3D Plane & other 3D
 
 {{< blocks/products/pf/product-card-row title="Aspose.3D On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="/product-logos/aspose_3d-for-net.png" productLink="/3d/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title=".NET" imgSrc="/product-logos/aspose_3d-for-net.svg" productLink="/3d/net/" >}}
 Enhance your C# & other .NET desktop & web applications to create, modify & convert 3D document formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="/product-logos/aspose_3d-for-java.png" productLink="https://products.aspose.com/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D for " title="Java" imgSrc="/product-logos/aspose_3d-for-java.svg" productLink="https://products.aspose.com/3d/java" >}}
 Java library to help you create 3D models & add 3D transformations to them. 3D file conversion is supported.
 {{< /blocks/products/pf/product >}}
 
