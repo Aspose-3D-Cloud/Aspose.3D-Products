@@ -6,7 +6,7 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D Modeling & Processing in Cloud using cURL" h2="Use cURL commands to create & process 3D models, objects and entities (Box, Cylinder, Sphere, Torus, Plane) in the cloud." logoImageSrc="/headers/aspose_3D-for-curl.svg" pfName="Aspose.3D" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D Modeling & Processing in Cloud using cURL" h2="Use cURL commands to create & process 3D models, objects and entities (Box, Cylinder, Sphere, Torus, Plane) in the cloud." logoImageSrc="/headers/aspose_3d-for-curl.svg" pfName="Aspose.3D" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud for cURL" >}}
 

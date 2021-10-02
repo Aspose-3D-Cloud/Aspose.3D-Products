@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3D-for-ruby.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3d-for-ruby.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" >}}
 

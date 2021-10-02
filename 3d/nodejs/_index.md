@@ -6,7 +6,7 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3D-for-node.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3d-for-nodejs.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" >}}
 
