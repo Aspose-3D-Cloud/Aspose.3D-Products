@@ -1,12 +1,12 @@
 ﻿---
 title: Ruby 3D REST API - Merge & Split Meshes, Export 3D Scene to AMF in Cloud 
-description: Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps. 
+description: Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps. 
 weight: 110
 url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3d-for-ruby.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="3D Scene Creation & Conversion via Ruby REST API" h2="Ruby SDK to Merge or Split meshes in a 3D file, 3D Scenes creation & conversion to various supported file formats inside cloud-based Ruby apps." logoImageSrc="/headers/aspose_3d-for-ruby.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Ruby" >}}
 
@@ -209,7 +209,7 @@ url: /ruby
      Get Started with 3D Modeling &amp; Processing in Cloud
     </h2>
     <p>
-     It is easy to get started with Aspose.3D Cloud SDK for Ruby as you need nothing to install. Simply create an account at
+     It is easy to get started with Aspose.3D Cloud SDK for Ruby as you need nothing to install. Simply create an account at
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
@@ -229,7 +229,7 @@ url: /ruby
      Merge and Split Meshes in 3D File
     </h2>
     <p>
-     Aspose.3D Cloud Ruby SDK allows software developers to merge multiple meshes into a single valid mesh inside their Ruby applications in the cloud. Developers can use the SDK to convert all meshes of a 3D scene, a node or a set of nodes into a single mesh.  You can easily load a 3D scene and merge all meshes into s single transformed mesh. The SDK also supports splitting all meshes of a scene into several sub meshes per material.
+     Aspose.3D Cloud Ruby SDK allows software developers to merge multiple meshes into a single valid mesh inside their Ruby applications in the cloud. Developers can use the SDK to convert all meshes of a 3D scene, a node or a set of nodes into a single mesh.  You can easily load a 3D scene and merge all meshes into s single transformed mesh. The SDK also supports splitting all meshes of a scene into several sub meshes per material.
     </p>
    </div>
    <div class="col-lg-12">
@@ -237,7 +237,7 @@ url: /ruby
      Export 3D Scene to AMF Format
     </h2>
     <p>
-     Aspose.3D Cloud Ruby SDK has included support for exporting a 3D Scene to Compressed AMF Format in the cloud via Ruby REST APIs. The SDK has provided an AMFSaveOptions class which can be used to set bool value for compression as per your requirements. By using a few simple Ruby commands you can generate compressed AMF format files inside your own apps.
+     Aspose.3D Cloud Ruby SDK has included support for exporting a 3D Scene to Compressed AMF Format in the cloud via Ruby REST APIs. The SDK has provided an AMFSaveOptions class which can be used to set bool value for compression as per your requirements. By using a few simple Ruby commands you can generate compressed AMF format files inside your own apps.
     </p>
    </div>
    <div class="col-lg-12">
@@ -245,7 +245,7 @@ url: /ruby
      Create &amp; Manage 3D Entities
     </h2>
     <p>
-     Aspose.3D Cloud Ruby SDK has provided features for 3D entities creation as well as its management inside cloud applications. The SDK has provided support for working with 3D entities like Box, Sphere, Plane, Torus, Cylinder, etc.  It allows engineers to insert a new entity with custom size and location as well as can delete it with ease.
+     Aspose.3D Cloud Ruby SDK has provided features for 3D entities creation as well as its management inside cloud applications. The SDK has provided support for working with 3D entities like Box, Sphere, Plane, Torus, Cylinder, etc.  It allows engineers to insert a new entity with custom size and location as well as can delete it with ease.
     </p>
    </div>
   </div>

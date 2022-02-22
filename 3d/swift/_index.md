@@ -1,12 +1,12 @@
 ﻿---
 title: Swift 3D REST API - Transform, Rotate & Scale of 3D Objects in Cloud 
-description: Incorporate 3D documents generation & processing into your cloud apps, transform, rotate & scale of 3D Objects via platform Independent Swift REST API 
+description: Incorporate 3D documents generation & processing into your cloud apps, transform, rotate & scale of 3D Objects via platform Independent Swift REST API 
 weight: 120
 url: /swift
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Swift Cloud SDK to Generate & Process 3D Objects" h2="Incorporate 3D documents generation & processing into your cloud apps, transform, rotate & scale of 3D Objects via platform Independent Swift REST API." logoImageSrc="/headers/aspose_3d-for-swift.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Swift Cloud SDK to Generate & Process 3D Objects" h2="Incorporate 3D documents generation & processing into your cloud apps, transform, rotate & scale of 3D Objects via platform Independent Swift REST API." logoImageSrc="/headers/aspose_3d-for-swift.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Swift" >}}
 

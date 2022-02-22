@@ -1,12 +1,12 @@
 ﻿---
 title: 3D Scenes to PDF, Process 3D Model & Attributes in Cloud via Perl API 
-description: Platform independent Perl REST API for creating & exporting 3D Scenes to PDF, processing 3D models & its attributes & managing Polygons in the cloud. 
+description: Platform independent Perl REST API for creating & exporting 3D Scenes to PDF, processing 3D models & its attributes & managing Polygons in the cloud. 
 weight: 80
 url: /perl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Manipulate 3D Documents via Perl API" h2="Platform independent Perl REST API for creating & exporting 3D Scenes to PDF, processing 3D models & its attributes & managing Polygons in the cloud." logoImageSrc="/headers/aspose_3d-for-perl.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Manipulate 3D Documents via Perl API" h2="Platform independent Perl REST API for creating & exporting 3D Scenes to PDF, processing 3D models & its attributes & managing Polygons in the cloud." logoImageSrc="/headers/aspose_3d-for-perl.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Perl" >}}
 
@@ -225,7 +225,7 @@ url: /perl
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     3D Scenes Saving in PDF via Perl
+     3D Scenes Saving in PDF via Perl
     </h2>
     <p>
      Aspose.3D Cloud Perl SDK enables software developers to create a 3D scene by including Camera, light, and numerous other entities. The SDK allows developers to load any 3D supported file or generate a new 3D scene and latter can save it in the PDF format with just a couple of lines of Perl code.
@@ -244,7 +244,7 @@ url: /perl
      Working with Polygons
     </h2>
     <p>
-     In 3D computer graphics, a polygon mesh is a collection of vertices, edges, and faces that defines the shape of a polyhedral object. Polygonal 3D modeling is widely used in various industries. Aspose.3D Cloud Perl SDK has included support for working with Polygons and has provided several advanced features such as convert all polygons to triangles in 3D Model, triangulation of a simple polygon, generating UV and associate it with the mesh, and more.
+     In 3D computer graphics, a polygon mesh is a collection of vertices, edges, and faces that defines the shape of a polyhedral object. Polygonal 3D modeling is widely used in various industries. Aspose.3D Cloud Perl SDK has included support for working with Polygons and has provided several advanced features such as convert all polygons to triangles in 3D Model, triangulation of a simple polygon, generating UV and associate it with the mesh, and more.
     </p>
    </div>
   </div>

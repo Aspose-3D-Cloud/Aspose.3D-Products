@@ -1,14 +1,14 @@
 ﻿---
 title: Node.js Cloud SDK for 3D Files – Create 3D Models, Scene & Entities 
-description: 3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud. 
+description: 3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud. 
 weight: 70
 url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3d-for-nodejs.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js REST API to Generate & Process 3D Objects in Cloud " h2="3D Cloud SDK to create & modify 3D models; Load & Extract 3D Scene as well as Convert it to other Supported File Formats in the Cloud." logoImageSrc="/headers/aspose_3d-for-nodejs.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for Node.js" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_3d-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/3d" directDownloadLink="https://github.com/aspose-3d-cloud/aspose-3d-cloud-node" liveDemosLink="https://products.aspose.app/3d/family"  >}}
 
@@ -217,7 +217,7 @@ url: /nodejs
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create &amp; Load 3D Scene via Cloud APIs
+     Create &amp; Load 3D Scene via Cloud APIs
     </h2>
     <p>
      Aspose.3D Cloud Node.js SDK provides complete support for 3D scene creation from scratch without any external dependencies. You can easily load and read 3D documents in the supported file formats such as FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D, Collada, glTF, DXF, PLY, RVM, ASE and many more. The SDK also allows supports reading 3D scene properties using the scene's child nodes.

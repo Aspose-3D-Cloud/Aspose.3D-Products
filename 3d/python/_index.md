@@ -217,7 +217,7 @@ url: /python
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Working with 3D Scenes via Python in Cloud
+     Working with 3D Scenes via Python in Cloud
     </h2>
     <p>
      Aspose.3D Cloud Python SDK has included support for several important features related to 3D Scenes
@@ -231,7 +231,7 @@ url: /python
      Create 3D Entities via Python in Cloud
     </h2>
     <p>
-     Aspose.3D Cloud Python SDK gives software programmers the capability to work with 3D entities inside their Python applications.  It enables developers to create and modify 3D entities like Box, Sphere, Plane, Torus, Cylinder etc. You can easily add a new entity with custom size and location of your choice. You can also delete a node with ease.
+     Aspose.3D Cloud Python SDK gives software programmers the capability to work with 3D entities inside their Python applications.  It enables developers to create and modify 3D entities like Box, Sphere, Plane, Torus, Cylinder etc. You can easily add a new entity with custom size and location of your choice. You can also delete a node with ease.
     </p>
    </div>
    <div class="col-lg-12">

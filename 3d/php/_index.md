@@ -1,12 +1,12 @@
 ﻿---
 title: PHP 3D Cloud SDK – Convert 3D Scenes to FBX, STL, 3DS, U3D, PDF & 3MF 
-description: Generate cloud-based PHP apps to create, edit, and convert 3D files to AMF, 3DS, RVM, DRC, DAE, DXF, FBX, OBJ, PDF & PLY formats in the cloud 
+description: Generate cloud-based PHP apps to create, edit, and convert 3D files to AMF, 3DS, RVM, DRC, DAE, DXF, FBX, OBJ, PDF & PLY formats in the cloud 
 weight: 90
 url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate 3D Models & Objects in Cloud via PHP" h2="Generate cloud-based PHP apps to create, edit, and convert 3D files to AMF, 3DS, RVM, DRC, DAE, DXF, FBX, OBJ, PDF & PLY formats in the cloud." logoImageSrc="/headers/aspose_3d-for-php.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate 3D Models & Objects in Cloud via PHP" h2="Generate cloud-based PHP apps to create, edit, and convert 3D files to AMF, 3DS, RVM, DRC, DAE, DXF, FBX, OBJ, PDF & PLY formats in the cloud." logoImageSrc="/headers/aspose_3d-for-php.svg" pfName="Aspose.3D" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="Cloud SDK for PHP" >}}
 
@@ -15,7 +15,7 @@ url: /php
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.3D Cloud PHP SDK is a platform independent REST API that gives programmers the capability to generate and manage 3D documents inside their cloud applications without installing any 3D modeling and rendering software on their machine. It makes programmers jobs easy by enabling them to load, read, create, build, modify and convert 3D file formats in the cloud with just several PHP commands.</p>
 <p>Aspose.3D Cloud PHP SDK supports working with numerous popular 3D file formats such as FBX, STL, OBJ, 3DS, U3D, DAE, GLTF, DRC, RVM, PDF, AMF, PLY, X, JT, DXF, 3MF, ASE, VRML, HTML and more. You can easily convert 3D files to other supported file formats. It supports conversion of whole 3D file as well as exporting a specific part of 3D model to the available supported formats.</p>
-<p>The SDK has included support for numerous popular functionalities relate 3D files manipulation and conversion, such as Create and manage 3D entities (Box, Sphere, Plane, Torus, Cylinder), 3D models and attributes processing, export 3D files to other file formats, convert a specific part of a 3D models, Extract 3D scenes and export to various formats, managing triangulate meshes,  raw data extraction from a PDF file page and many more.</p>
+<p>The SDK has included support for numerous popular functionalities relate 3D files manipulation and conversion, such as Create and manage 3D entities (Box, Sphere, Plane, Torus, Cylinder), 3D models and attributes processing, export 3D files to other file formats, convert a specific part of a 3D models, Extract 3D scenes and export to various formats, managing triangulate meshes,  raw data extraction from a PDF file page and many more.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -103,7 +103,7 @@ url: /php
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export complete or a part of the 3D document to another format
+     Export complete or a part of the 3D document to another format
     </p>
    </div>
    <div class="col-lg-4">
@@ -218,7 +218,7 @@ url: /php
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Generate 3D Scenes via PHP API in Cloud
+     Generate 3D Scenes via PHP API in Cloud
     </h2>
     <p>
      Aspose.3D Cloud PHP SDK gives software engineers the power to create 3D scenes with just a couple of lines of PHP code inside their own cloud apps. You can easily save the created 3D scenes to the available supported file format (FBX, STL, OBJ, 3DS, U3D, DAE, GLTF, DRC, RVM, PDF, AMF, and PLY). It also supports loading the existing 3D scene for further altering, adding elements, or processing it.
